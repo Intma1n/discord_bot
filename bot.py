@@ -23,9 +23,9 @@ thanks_response = 'Да пошёл ты нахуй'
 
 good_words_response = ['С вероятностью 50% ты завтра не проснешься']
 
-wow_words = ['wow', 'шош', 'вов', 'bob', ]
+wow_words = [' wow ', ' шош ', ' вов ', ]
 
-media_ext = ['.jpg', '.png', '.jpeg', '.mp4', '.webm']
+media_ext = ['.jpg', '.png', '.jpeg', '.mp4', '.webm', 'mov']
 
 wow_words_response = ["Я уже говорил, что ВоВ - говно?",
                       "Даже я знаю, что ВоВ - говно",
